@@ -34,9 +34,8 @@ The main objective of this project is to automate the testing of key functionali
 
 ## 5. Project Setup:
 + Install Python from the official website.
-+ Install Selenium WebDriver using pip: pip install selenium.
++ Install Selenium WebDriver using pip: `pip install selenium.`
 + Download the WebDriver executable for the desired browser and set its path in the system environment variables.
-+ Clone the project repository from [GitHub Link].
 + Open the project in your preferred IDE or text editor.
 
 ## 6. Test Scenarios:
